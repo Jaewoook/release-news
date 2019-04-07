@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "quotemark": [
+      true,
+      "double"
+    ],
+    "no-trailing-whitespace": true,
+    "prefer-const": true,
+    "class-name": true
+  }
+}
