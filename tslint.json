@@ -4,6 +4,7 @@
       true,
       "double"
     ],
+    "semicolon": true,
     "no-trailing-whitespace": true,
     "prefer-const": true,
     "class-name": true

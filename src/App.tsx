@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+const GITHUB_API_KEY = "361f4ee05b4a49cbcaec4b747536c967ca5a3310";
+
 class App extends Component {
   render() {
     return (
